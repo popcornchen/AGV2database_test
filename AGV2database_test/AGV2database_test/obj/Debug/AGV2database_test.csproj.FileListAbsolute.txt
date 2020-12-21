@@ -1,0 +1,6 @@
+D:\机器人云平台边缘开发\AGV2database_test\AGV2database_test\bin\Debug\AGV2database_test.exe.config
+D:\机器人云平台边缘开发\AGV2database_test\AGV2database_test\bin\Debug\AGV2database_test.exe
+D:\机器人云平台边缘开发\AGV2database_test\AGV2database_test\bin\Debug\AGV2database_test.pdb
+D:\机器人云平台边缘开发\AGV2database_test\AGV2database_test\obj\Debug\AGV2database_test.csprojResolveAssemblyReference.cache
+D:\机器人云平台边缘开发\AGV2database_test\AGV2database_test\obj\Debug\AGV2database_test.exe
+D:\机器人云平台边缘开发\AGV2database_test\AGV2database_test\obj\Debug\AGV2database_test.pdb
